@@ -1,6 +1,6 @@
 library(rjson)
 library(plyr)
-setwd("C:/Users/Mbac/Documents/Projects/Vert/Projects/")
+setwd("C:/Path/to/dir/")
 
 json_file <- "R_VCG_phyl_input.txt"
 json_data <- fromJSON(file= json_file)
