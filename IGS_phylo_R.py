@@ -15,19 +15,9 @@ d={"GAGCTACCCGGGAATTGG" : "R","CAGCTACCCGGGAATTGG" : "R","AAGCTACCCGGGAATTGG" : 
    "ACCAGTTTTGAGGCTGG": "A", "ACCAGTTTCGAGGCTGG" : "A",
    "CTGAAAAGACGACCAAGTCGGACACCCTG" : "B", "CTGAAGAGACGACCAAGTCGGACACCCTG" : "B", "CTGAAAAACGACCAAGTCGGACACCCTG" : "B", "CTGAAGAAACGACCAAGTCGGACACCCTG" : "B", "CTGAAAAGACGACCAAGTCAGACACCCTG" : "B", "CTGAAGAGACGACCAAGTCAGACACCCTG" : "B", "CTGAAAAACGACCAAGTCAGACACCCTG" : "B", "CTGAAGAAACGACCAAGTCAGACACCCTG" : "B", "CTGAAAAGACGACCAAGTCGGACATCCTG" : "B", "CTGAAGAGACGACCAAGTCGGACATCCTG" : "B", "CTGAAAAACGACCAAGTCGGACATCCTG" : "B", "CTGAAGAAACGACCAAGTCGGACATCCTG" : "B", "CTGAAAAGACGACCAAGTCAGACATCCTG" : "B", "CTGAAGAGACGACCAAGTCAGACATCCTG" : "B", "CTGAAAAACGACCAAGTCAGACATCCTG" : "B", "CTGAAGAAACGACCAAGTCAGACATCCTG" : "B", "CTGAAAAGACGACCAAGTCGGACACCTTG" : "B", "CTGAAGAGACGACCAAGTCGGACACCTTG" : "B", "CTGAAAAACGACCAAGTCGGACACCTTG" : "B", "CTGAAGAAACGACCAAGTCGGACACCTTG" : "B", "CTGAAAAGACGACCAAGTCAGACACCTTG" : "B", "CTGAAGAGACGACCAAGTCAGACACCTTG" : "B", "CTGAAAAACGACCAAGTCAGACACCTTG" : "B", "CTGAAGAAACGACCAAGTCAGACACCTTG" : "B", "CTGAAAAGACGACCAAGTCGGACATCTTG" : "B", "CTGAAGAGACGACCAAGTCGGACATCTTG" : "B", "CTGAAAAACGACCAAGTCGGACATCTTG" : "B", "CTGAAGAAACGACCAAGTCGGACATCTTG" : "B", "CTGAAAAGACGACCAAGTCAGACATCTTG" : "B", "CTGAAGAGACGACCAAGTCAGACATCTTG" : "B", "CTGAAAAACGACCAAGTCAGACATCTTG" : "B", "CTGAAGAAACGACCAAGTCAGACATCTTG" : "B", "CTGAAAAGACGACCAAGTCGGACACCCGG" : "B", "CTGAAGAGACGACCAAGTCGGACACCCGG" : "B", "CTGAAAAACGACCAAGTCGGACACCCGG" : "B", "CTGAAGAAACGACCAAGTCGGACACCCGG" : "B", "CTGAAAAGACGACCAAGTCAGACACCCGG" : "B", "CTGAAGAGACGACCAAGTCAGACACCCGG" : "B", "CTGAAAAACGACCAAGTCAGACACCCGG" : "B", "CTGAAGAAACGACCAAGTCAGACACCCGG" : "B", "CTGAAAAGACGACCAAGTCGGACATCCGG" : "B", "CTGAAGAGACGACCAAGTCGGACATCCGG" : "B", "CTGAAAAACGACCAAGTCGGACATCCGG" : "B", "CTGAAGAAACGACCAAGTCGGACATCCGG" : "B", "CTGAAAAGACGACCAAGTCAGACATCCGG" : "B", "CTGAAGAGACGACCAAGTCAGACATCCGG" : "B", "CTGAAAAACGACCAAGTCAGACATCCGG" : "B", "CTGAAGAAACGACCAAGTCAGACATCCGG" : "B", "CTGAAAAGACGACCAAGTCGGACACCTGG" : "B", "CTGAAGAGACGACCAAGTCGGACACCTGG" : "B", "CTGAAAAACGACCAAGTCGGACACCTGG" : "B", "CTGAAGAAACGACCAAGTCGGACACCTGG" : "B", "CTGAAAAGACGACCAAGTCAGACACCTGG" : "B", "CTGAAGAGACGACCAAGTCAGACACCTGG" : "B", "CTGAAAAACGACCAAGTCAGACACCTGG" : "B", "CTGAAGAAACGACCAAGTCAGACACCTGG" : "B", "CTGAAAAGACGACCAAGTCGGACATCTGG" : "B", "CTGAAGAGACGACCAAGTCGGACATCTGG" : "B", "CTGAAAAACGACCAAGTCGGACATCTGG" : "B", "CTGAAGAAACGACCAAGTCGGACATCTGG" : "B", "CTGAAAAGACGACCAAGTCAGACATCTGG" : "B", "CTGAAGAGACGACCAAGTCAGACATCTGG" : "B", "CTGAAAAACGACCAAGTCAGACATCTGG" : "B", "CTGAAGAAACGACCAAGTCAGACATCTGG" : "B", "CTGAAAAAACGACCAAGTCGGACACCCTG" : "B", "CTGAAAAAACGACCAAGTCAGACACCCTG" : "B", "CTGAAAAAACGACCAAGTCGGACATCCTG" : "B", "CTGAAAAAACGACCAAGTCAGACATCCTG" : "B", "CTGAAAAAACGACCAAGTCGGACACCTTG" : "B", "CTGAAAAAACGACCAAGTCAGACACCTTG" : "B", "CTGAAAAAACGACCAAGTCGGACATCTTG" : "B", "CTGAAAAAACGACCAAGTCAGACATCTTG" : "B", "CTGAAAAAACGACCAAGTCGGACACCCGG" : "B", "CTGAAAAAACGACCAAGTCAGACACCCGG" : "B", "CTGAAAAAACGACCAAGTCGGACATCCGG" : "B", "CTGAAAAAACGACCAAGTCAGACATCCGG" : "B", "CTGAAAAAACGACCAAGTCGGACACCTGG" : "B", "CTGAAAAAACGACCAAGTCAGACACCTGG" : "B", "CTGAAAAAACGACCAAGTCGGACATCTGG" : "B", "CTGAAAAAACGACCAAGTCAGACATCTGG" : "B",
    "GAATTTGGAGAACGGATTTTGG" : "I", "AAATTTGGAGAACGGATTTTGG" : "I"}
-d_seq={"RARBRIBRRRR" : "VCG1", "RARBRIBRRRRR" : "VCG1", "RARBRIBRRRRRRR" : "VCG1",
-"RARBRRARBRR" : "VCG2A", "RARBRRARBRRARBRR" : "VCG2A", "RARBRRARBRRARBRRARBRR" : "VCG2A",
-"RARBRIBR" : "VCG2B", "RARBRARBRIBR" : "VCG2B", "RARBRARBRARBRIBR" : "VCG2B", "RARBRIBRR" : "VCG2B", "RARBRARBRIBRR" : "VCG2B", "RARBRARBRARBRIBRR" : "VCG2B", "RARBRIBRRRRRR" : "VCG2B", "RARBRARBRIBRRRRRR" : "VCG2B", "RARBRARBRARBRIBRRRRRR" : "VCG2B",
-"RARBRARBRRR" : "VCG3",
-"RARBRARBRIBRRR" : "VCG4A",
-"RARBRARBRARBRR" : "VCG4B", "RARBRARBRARBRARBRR" : "VCG4B",
-"RARBRARBRARBRRIBR" : "VCG6",
-"RARBRR" : "VCG2A or VCG4B", "RARBRARBRR" : "VCG3 or VCG4B"}
 
 
-      
-
-def IGS(DNA):
+def repeats(DNA):
     """Takes an input IGS sequence in plain text format and finds repeat regions and prints the sequence of repeats to the screen. If the sequence of repeats matches a known
 IGS-VCG combo, it will also print out the corresponding VCG.
 Example IGS("TCAAGGTGGAAAGCTACCCGGGAATTGGACCAGTTTTGAGGCTGGCAGCTACCCGGGAGTTGGCTGAAAAACGACCAAGTCGGACACCTTGGAGCTACCCGGGAATTGGGAGCTACCCGGGAATTGGACCAGTTTTGAGGCTGGCAGCTACCCGGGAGTTGG
@@ -36,58 +26,50 @@ Prints:
 VCG2A
 RARBRRARBRRARBRR
 """
-    sequence=""
-    sequence2=[]
+    sequence=[]
     
     for i in range(len(DNA)):
         out_dictionary = defaultdict(int)    
         if len(DNA[i:i+29])>16:
            if DNA[i:i+18] in d.keys() or DNA[i:i+17] in d.keys() or DNA[i:i+29] in d.keys() or DNA[i:i+28] in d.keys() or DNA[i:i+22] in d.keys():
                if DNA[i:i+18] in d.keys():
-                   sequence2.append(DNA[i:i+18])
-                   sequence=sequence+ d[DNA[i:i+18]]
+                   sequence.append(DNA[i:i+18])
                elif DNA[i:i+17] in d.keys():
-                   sequence2.append(DNA[i:i+17])
-                   sequence=sequence+ d[DNA[i:i+17]]
+                   sequence.append(DNA[i:i+17])
                elif DNA[i:i+29] in d.keys():
-                   sequence2.append(DNA[i:i+29])
-                   sequence=sequence+ d[DNA[i:i+29]]
+                   sequence.append(DNA[i:i+29])
                elif DNA[i:i+28] in d.keys():
-                   sequence2.append(DNA[i:i+28])
-                   sequence=sequence+ d[DNA[i:i+28]]
+                   sequence.append(DNA[i:i+28])
                else:
                    DNA[i:i+22] in d.keys()
-                   sequence2.append(DNA[i:i+22])
-                   sequence=sequence+ d[DNA[i:i+22]]
-    for item in sequence2:
+                   sequence.append(DNA[i:i+22])
+    for item in sequence:
         out_dictionary[item] +=1
     return(dict(out_dictionary))
 
 
         
-def multi_IGS(fasta):
+def multifasta_repeats_to_json(fasta):
     
     dictionary_list=[]
     with open(fasta, "rU") as handle:
         for record in SeqIO.parse(handle, "fasta"):
             dictionary={}
             dictionary.update({"Sample Name":record.description})
-            dictionary.update(IGS(record.seq))
+            dictionary.update(repeats(record.seq))
             dictionary_list.append(dictionary)
-    temp=str(dictionary_list)
-    temp=temp.replace(', SingleLetterAlphabet())','')
-    temp=temp.replace('Seq(','')
-    return(temp)
+    json=str(dictionary_list)
+    json=json.replace(', SingleLetterAlphabet())','')
+    json=json.replace('Seq(','')
+    return(json)
 
 
 
-fasta=r'C:\Users\Mbac\Documents\Projects\Vert\Projects\IGS_Test.fasta'
+fasta=r'C:\Path\to\fasta.fasta'
 
-json=json.dumps(multi_IGS(fasta))
+json_file=json.dumps(multifasta_repeats_to_json(fasta))
 file = open('R_VCG_phyl_input.txt','w')
-file.write(json)
+file.write(json_file)
 file.close()
 
-
-#multi_IGS(fasta)
 
