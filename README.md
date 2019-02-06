@@ -12,4 +12,4 @@ To edit json file, replace all ' with " by find and replace. Also remove beginni
 #R_IGS_phylo
 Takes the output json formatted file from the previous script (Note: json format, output as a .txt file) and imports into R and clusters samples based on repeat frequency and sequence.
 
-
+![alt text](https://raw.githubusercontent.com/Jwebster89/IGS-checker/Rplot02.png)
